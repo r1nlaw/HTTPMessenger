@@ -5,3 +5,5 @@ HTTPMessenger
   - Postman
   - encoding/json
   - sync
+  - gin
+  - bcrypt
