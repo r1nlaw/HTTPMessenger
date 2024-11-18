@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"HTTPMessenger/user"
+	"HTTPMessenger/messenger/user"
 	"encoding/json"
 	"net/http"
 	"sync"

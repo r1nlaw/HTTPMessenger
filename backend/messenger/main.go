@@ -1,7 +1,7 @@
 package main
 
 import (
-	"HTTPMessenger/handlers"
+	"HTTPMessenger/messenger/handlers"
 	"net/http"
 )
 
