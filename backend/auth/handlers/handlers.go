@@ -7,7 +7,7 @@ func RegisterUserHandler(ctx *gin.Context) {
 }
 
 func SignInHandler(ctx *gin.Context) {
-
+	signIn(ctx)
 }
 
 func GetUserHandler(ctx *gin.Context) {
