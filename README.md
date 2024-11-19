@@ -7,3 +7,4 @@ HTTPMessenger
   - sync
   - gin
   - bcrypt
+  - JWT
