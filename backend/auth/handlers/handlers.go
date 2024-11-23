@@ -11,9 +11,9 @@ func SignInHandler(ctx *gin.Context) {
 }
 
 func GetUserHandler(ctx *gin.Context) {
-
+	getUser(ctx)
 }
 
 func RefreshTokenHandler(ctx *gin.Context) {
-
+	Refresh(ctx)
 }
